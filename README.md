@@ -1,6 +1,6 @@
 ## LIS 4369: Extensible Enterprise Solutions
 
-* A1:[A1 README File](a1/README.md)
+* A1: [A1 README File](a1/README.md)
     - Install Python
     - Install R
     - Install R Studio

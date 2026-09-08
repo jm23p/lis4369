@@ -40,13 +40,10 @@
 
 ### **Extra Credit Screenshots/Files**:
 
-#### *Jupyter run_py_files_in_jupyter_lab*:
+#### *Jupyter run_py_files_in_jupyter_lab*: [run_py_files_in_jupyter_lab.ipynb](extra_credit/run_py_files_in_jupyter_lab.ipynb)
 ![Jupyter run_py_files_in_jupyter_lab](<Screenshot 2026-09-03 122700.png>)
-[run_py_files_in_jupyter_lab.ipynb](extra_credit/run_py_files_in_jupyter_lab.ipynb)
 
-#### *Jupyter magic_commands.ipynb*:
+#### *Jupyter magic_commands.ipynb*: [magic_commands.ipynb](extra_credit/magic_commands.ipynb)
 ![magic_commands.ipynb 1](<Screenshot 2026-09-03 150705.png>)
 ![magic_commands.ipynb 2](<Screenshot 2026-09-03 150716.png>)
 ![magic_commands.ipynb 3](<Screenshot 2026-09-03 150726.png>)
-
-[magic_commands.ipynb](extra_credit/magic_commands.ipynb)
