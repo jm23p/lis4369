@@ -7,6 +7,7 @@
 2. Backward-engineer (using Python) the A2 video
 3. Create program to show Python and package versions
 4. Export Python and package versions to .yml file
+5. 3 skillsets with screenshots and file locations
 
 ### README.md file should include the following items:
 
@@ -27,13 +28,13 @@
 #### *A2 Reverse-Engineered Program:* [a2.ipynb](a2.ipynb)
 ![a2.ipynb](a2_recording.gif)
 
-### Assignment Skillsets:
+### Assignment Skillsets: [Skillsets Home Directory](https://github.com/jm23p/lis4369/tree/main/skillsets)
 
-#### *Skillset 1: Square Feet to Acres:* 
+#### *Skillset 1: Square Feet to Acres:* [SS1 Functions](https://github.com/jm23p/lis4369/blob/main/skillsets/ss1_sq_ft_to_acres/functions.py)
 ![SS1](<Screenshot 2026-09-20 105141.png>)
 
-#### *Skillset 2: Miles Per Gallon:* 
+#### *Skillset 2: Miles Per Gallon:* [SS2 Functions](https://github.com/jm23p/lis4369/blob/main/skillsets/ss2_mpg/functions.py)
 ![SS2](<Screenshot 2026-09-20 105108.png>)
 
-#### *Skillset 3: IT/ICT Student Percentage:* 
+#### *Skillset 3: IT/ICT Student Percentage:* [SS3 Functions](https://github.com/jm23p/lis4369/blob/main/skillsets/ss3_it_ict_student_percentage/functions.py)
 ![SS3](<Screenshot 2026-09-20 104941.png>)
