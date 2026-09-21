@@ -14,6 +14,7 @@
 * Screenshot of conda environments
 * Link to exported conda environment package list file, [testenv.yml](testenv.yml)
 * Create Python program displaying environment packages, [my_env_versions.py](my_env_versions.py)
+* [patients.csv file](patients.csv) ands its cleaned counterpart [patients_clean.csv](patients_clean.csv)
 
 ### Assignment Screenshots/Gifs:
 
