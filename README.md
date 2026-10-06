@@ -1,4 +1,5 @@
-## LIS 4369: Extensible Enterprise Solutions
+# LIS 4369: Extensible Enterprise Solutions
+### Developer: Joshua Mann
 
 * A1: [A1 README File](a1/README.md)
     - Install Python
