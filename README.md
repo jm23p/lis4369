@@ -21,3 +21,10 @@
     - Complete Skillset 1: Square Feet to Acres
     - Complete Skillset 2: Miles Per Gallon
     - Complete Skillset 3: IT/ICT Student Percentage
+
+* A3: [A3 README File](a3/README.md)
+    - Ensure Python test environment's usage for package versions
+    - Reverse-engineer A3 program
+    - Complete Skillset 4: Calorie Percentage
+    - Complete Skillset 5: Python Selection Structures
+    - Complete Skillset 6: Python Loops
