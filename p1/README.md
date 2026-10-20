@@ -16,15 +16,16 @@
 
 ### Assignment Screenshots/Gifs:
 
-#### *P1 Reverse-Engineered Program:*  [p1.ipynb](p1.ipynb)<video controls src="p1_lis4369.mp4" title="P1 Jupyter Program"></video>
+#### *P1 Reverse-Engineered Program:*  [p1.ipynb](p1.ipynb)
+![P1 Gif](p1_list4369_comp.gif)
 
 ### Assignment Skillsets: [Skillsets Home Directory](https://github.com/jm23p/lis4369/tree/main/skillsets)
 
-#### *Skillset 7: Using Lists:* 
+#### *Skillset 7: Using Lists:* [SS7 Functions](https://github.com/jm23p/lis4369/blob/main/skillsets/ss7_using_lists/functions.py)
 ![SS7](<Screenshot 2026-10-19 164435.png>)
 
-#### *Skillset 8: Using Tuples:* 
+#### *Skillset 8: Using Tuples:* [SS8 Functions](https://github.com/jm23p/lis4369/blob/main/skillsets/ss8_using_tuples/functions.py)
 ![SS8](<Screenshot 2026-10-19 210415.png>)
 
-#### *Skillset 9: Using Sets:* 
+#### *Skillset 9: Using Sets:* [SS9 Functions](https://github.com/jm23p/lis4369/blob/main/skillsets/ss9_using_sets/functions.py)
 ![SS9](<Screenshot 2026-10-20 120339.png>)
