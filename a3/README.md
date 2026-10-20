@@ -3,7 +3,7 @@
 ## Joshua Mann
 
 ### Assignment 3 Requirements:
-1. Backward-engineer (using Python) the A2 video
+1. Backward-engineer (using Python) the A3 video
 2. Utilize cleaned file from past assignment for analysis
 3. Ensure Python test environment is used for programming packages
 4. 3 skillsets with screenshots and file locations
