@@ -21,11 +21,11 @@
 
 ### Assignment Skillsets: [Skillsets Home Directory](https://github.com/jm23p/lis4369/tree/main/skillsets)
 
-#### *Skillset 10: Using Dictionaries:* 
+#### *Skillset 10: Using Dictionaries:* [SS10 Functions](https://github.com/jm23p/lis4369/blob/main/skillsets/ss10_using_dictionaries/functions.py)
 ![SS10](<Screenshot 2026-11-03 150150.png>)
 
-#### *Skillset 11: Pseudo-Random Number Generator:* 
+#### *Skillset 11: Pseudo-Random Number Generator:* [SS11 Functions](https://github.com/jm23p/lis4369/blob/main/skillsets/ss11_pseudo_random_number_generator/functions.py)
 ![SS11](<Screenshot 2026-11-03 153553.png>)
 
-#### *Skillset 12: Temperature Conversion Program:* 
+#### *Skillset 12: Temperature Conversion Program:* [SS12 Functions](https://github.com/jm23p/lis4369/blob/main/skillsets/ss12_temperature_conversion_program/functions.py)
 ![SS12](<Screenshot 2026-11-03 160728.png>)
