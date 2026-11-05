@@ -36,3 +36,10 @@
     - Complete Skillset 7: Using Lists
     - Complete Skillset 8: Using Tuples
     - Complete Skillset 9: Using Sets
+
+* A4: [A4 README File](a4/README.md)
+    - Ensure Python test environment's usage for package versions
+    - Reverse-engineer A4 program
+    - Complete Skillset 10: Using Dictionaries
+    - Complete Skillset 11: Pseudo Random Number Generator
+    - Complete Skillset 12: Temperature Conversion
