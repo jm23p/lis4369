@@ -124,7 +124,7 @@ titanic_no_missing_data # display new data set w/o missing values
 # charting/plotting
 help(stripchart) # help command
 
-pdf(file="C:/Users/fsuma/lis4369/a5/myplotfile.pdf")
+# pdf(file="C:/Users/fsuma/lis4369/a5/myplotfile.pdf")  # sends plots to a PDF instead of the Plots tab
 stripchart(titanic_no_missing_data$Age) # strip chart
 
 # histogram
@@ -133,7 +133,7 @@ hist(titanic_no_missing_data$Age, main="Distribution of Titanic Passengers Ages"
 # boxplot
 boxplot(titanic_no_missing_data$Age)
 
-dev.off()
+# dev.off()
 
 # or plotted horizontally
 # png(filename = "boxplot.png",
@@ -143,25 +143,25 @@ boxplot(titanic_no_missing_data$Age,
         xlab='Ages',
         horizontal=TRUE)
 
-dev.off()
+# dev.off()
 
 plot(titanic_no_missing_data$Age,titanic_no_missing_data$Survived,
      main="Relationship Between Ages and Survival",
      xlab="Age",
      ylab="Survived")
 
-dev.off()
+# dev.off()
 
 # create scatterplot png
-png(filename = "scatterplot.png",
-    width = 800, height = 600, units = "px", pointsize = 12, bg = "cadetblue")
+# png(filename = "scatterplot.png",
+#     width = 800, height = 600, units = "px", pointsize = 12, bg = "cadetblue")
 
-plot(titanic_no_missing_data$Age, titanic_no_missing_data$Survived,
-     main = "Relationship Between Ages and Survival",
-     xlab = "Age",
-    ylab = "Survived")
+# plot(titanic_no_missing_data$Age, titanic_no_missing_data$Survived,
+#      main = "Relationship Between Ages and Survival",
+#      xlab = "Age",
+#      ylab = "Survived")
 
-dev.off()
+# dev.off()
 
 # stores entire workspace to file named .RData by default
 # next R restart workspace will be loaded
