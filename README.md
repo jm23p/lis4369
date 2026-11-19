@@ -43,3 +43,11 @@
     - Complete Skillset 10: Using Dictionaries
     - Complete Skillset 11: Pseudo Random Number Generator
     - Complete Skillset 12: Temperature Conversion
+
+* A5: [A5 README File](a5/README.md)
+    - Download R and complete setup
+    - Provide links and screenshots of R Studio files running
+    - Provide 4 graphs (2 from each R file)
+    - Complete Skillset 13: Sphere Volume Calculator
+    - Complete Skillset 14: Calculator With Error Handling
+    - Complete Skillset 15: File Write/Read

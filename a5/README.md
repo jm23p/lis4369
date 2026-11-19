@@ -34,11 +34,11 @@
 
 ### Assignment Skillsets: 
 
-#### *Skillset 13: Sphere Volume Calculator* [SS13 Directory]()
+#### *Skillset 13: Sphere Volume Calculator* [SS13 Directory](https://github.com/jm23p/lis4369/tree/main/skillsets/ss13_sphere_volume_calculator)
 ![SS13](<Screenshot 2026-11-17 085622.png>)
 
-#### *Skillset 14: Calculator With Error Handling* [SS14 Directory]()
+#### *Skillset 14: Calculator With Error Handling* [SS14 Directory](https://github.com/jm23p/lis4369/tree/main/skillsets/ss14_calculator_with_error_handling)
 ![SS14](<Screenshot 2026-11-17 100246.png>)
 
-#### *Skillset 15: File Write/Read* [SS15 Directory]()
+#### *Skillset 15: File Write/Read* [SS15 Directory](https://github.com/jm23p/lis4369/tree/main/skillsets/ss15_file_write_read)
 ![SS15](<Screenshot 2026-11-17 141706.png>)
