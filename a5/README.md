@@ -22,6 +22,7 @@
 ![learn_to_use_r.R File](<Screenshot 2026-11-18 223257.png>)
 
 **Example Plots for Learn_to_use_r.R:**
+
 ![Temp/Pressure Plot](<Screenshot 2026-11-18 223351.png>)
 ![MPG/Engine Displ. Plot](<Screenshot 2026-11-18 223409.png>)
 
@@ -29,6 +30,7 @@
 ![lis4369_a5.R](<Screenshot 2026-11-18 194039.png>)
 
 **Example Plots for lis4369_a5.R:**
+
 ![Scatterplot](scatterplot.png)
 ![Boxplot](boxplot.png)
 
